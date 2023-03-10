@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ph8kDG4EdlgQhF478jCBwDnHHiXYkkWjFgLKgil/gcHfOFzkAfoZc7XV+zp1z0HgDjs+DMCKYuI1QPwVdL4b/w==",
+  "dgSpecHash": "7U4l8Sxls67AMpph9ahlTbg6wz8o/gpZ4zPZuX/EcU0V4ilW3IMsrE7P7Zen1ze7f3N7ClYUB67Hu11nlDyJYQ==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio 2022\\Projects\\Inventory\\Inventory.csproj",
+  "projectFilePath": "C:\\Users\\Amir Hamza\\Source\\Repos\\Inventory\\Inventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amir Hamza\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Amir Hamza\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
